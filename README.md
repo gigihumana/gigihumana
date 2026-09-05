@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gigihumana/gigihumana/main/standard.gif" alt="Batata chipos" />
-  <h1>Davix Sales Bot</h1>
+  <img src="https://raw.githubusercontent.com/gigihumana/gigihumana/main/91157-600585-takemyhand.png" alt="Batata chipos" />
+  <h1>Batata chipos profile</h1>
 </div>
 
 # About me
