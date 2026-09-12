@@ -31,4 +31,4 @@ Hello! I am a developer passionate about scripting and automation, specializing 
 
   ## My Octocat :3
 
-  
+  ![Mascote Octocat :D](octocat-1789254633308.png)
