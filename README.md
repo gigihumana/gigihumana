@@ -28,3 +28,7 @@ Hello! I am a developer passionate about scripting and automation, specializing 
 ## 📫 How to reach me
 
 * **Discord:** `[_razzle_]`
+
+  ## My Octocat :3
+
+  
