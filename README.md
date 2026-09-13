@@ -10,7 +10,7 @@
 
 Hello! I am a developer passionate about scripting and automation, specializing in **Lua and Luau**.
 
-* 🔭 **Currently working on:** [Spectra Bot]
+* 🔭 **Currently working on:** [Prism]
 * 💡 **What I do:** Advanced scripting, Discord integrations
 * 🌱 **Always learning:** Constantly improving my code and exploring new ways to make scripts more efficient.
 
@@ -24,6 +24,7 @@ Hello! I am a developer passionate about scripting and automation, specializing 
 ## 📌 Projects
 
 * **[Spectra Bot]**
+* **[PRISM]**
 
 ## 📫 How to reach me
 
