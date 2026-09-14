@@ -1,35 +1,13 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gigihumana/gigihumana/main/91157-600585-takemyhand.png" alt="Batata chipos" width="180" />
-  <h1>Batata chipos</h1>
-  <p><i>Lua/Luau Developer | Creator of Spectra Bot</i></p>
-</div>
+## [@_razzle_](https://github.com/gigihumana)
+
+## Stack
+<img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg" alt="luau" width="45" height="48"/> ![Stack](https://skillicons.dev/icons?i=lua,python,html,js,nodejs)
+
+## IDE/Studios
+![IDE/Studios](https://skillicons.dev/icons?i=visualstudio,vscode,robloxstudio)
+
+## Learning
+![Stack](https://skillicons.dev/icons?i=kotlin)  
 
 ---
-
-## 👨‍💻 About Me
-
-Hello! I am a developer passionate about scripting and automation, specializing in **Lua and Luau**.
-
-* 🔭 **Currently working on:** [PrismDBF]
-* 💡 **What I do:** Advanced scripting, Discord integrations
-* 🌱 **Always learning:** Constantly improving my code and exploring new ways to make scripts more efficient.
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</div>
-
-## 📌 Projects
-
-* **[Spectra Bot]**
-* **[PrismDBF]**
-
-## 📫 How to reach me
-
-* **Discord:** `[_razzle_]`
-
-  ## My Octocat :3
-
-  ![Mascote Octocat :D](octocat-1789254633308.png)
+You can contact me at the link attached to my profile.
