@@ -10,4 +10,4 @@
 ![Stack](https://skillicons.dev/icons?i=kotlin)  
 
 ---
-You can contact me at my discord user @_razzle_ .
+You can contact me on Discord at @razzle.
